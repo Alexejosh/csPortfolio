@@ -2,7 +2,7 @@
 * First Web Page [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
 * Lightning [here](https://alexejosh.github.io/lightning2/)
 * Lightning JS [here](https://alexejosh.github.io/lightning2/lightining_3_js/index.html)
-* Dice [here]()
+* Dice [here](https://alexejosh.github.io/dice3/)
 * Dice JS [here]()
 * Chemotaxis [here]()
 * Chemotaxis JS [here]()
