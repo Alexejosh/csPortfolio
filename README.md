@@ -3,6 +3,9 @@
 * Lightning [here](https://alexejosh.github.io/lightning2/)
 * Lightning JS [here](https://alexejosh.github.io/lightning2/lightining_3_js/index.html)
 * Dice [here]()
+* Dice JS [here]()
+* Chemotaxis [here]()
+* Chemotaxis JS [here]()
 
 Difficult code:
 ```Java
