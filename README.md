@@ -4,7 +4,7 @@
 * Lightning JS [here](https://alexejosh.github.io/lightning2/lightining_3_js/index.html)
 * Dice [here](https://alexejosh.github.io/dice3/)
 * Dice JS [here]()
-* Chemotaxis [here]()
+* Chemotaxis [here](https://alexejosh.github.io/chemotaxis4/index)
 * Chemotaxis JS [here]()
 
 Difficult code:
