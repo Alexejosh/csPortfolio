@@ -1,4 +1,5 @@
 # csPortfolio
+* NEW PORTFOLIO [here](https://alexejosh.github.io/CompSci_Portfolio/)
 * First Web Page [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
 * Lightning [here](https://alexejosh.github.io/lightning2/)
 * Lightning JS [here](https://alexejosh.github.io/lightning2/lightining_3_js/index.html)
