@@ -9,15 +9,32 @@
   [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
 </p>
 </details>
-* NEW PORTFOLIO [here](https://alexejosh.github.io/compsciportfolio/)
-* First Web Page [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
-* Lightning [here](https://alexejosh.github.io/lightning2/)
-* Lightning JS [here](https://alexejosh.github.io/lightning2/lightining_3_js/index.html)
-* Dice [here](https://alexejosh.github.io/dice3/)
-* Dice JS [here]()
-* Chemotaxis [here](https://alexejosh.github.io/chemotaxis4/index)
-* Chemotaxis JS [here]()
-* StarField [here](https://alexejosh.github.io/starfield5/)
+<details><summary><strong>NEW PORTFOLIO</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/compsciportfolio/)
+</p>
+</details>
+<details><summary><strong>Lightning</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/lightning2/)
+</p>
+</details>
+<details><summary><strong>Dice</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/dice3/)
+</p>
+</details>
+<details><summary><strong>Chemotaxis</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/chemotaxis4/index)
+</p>
+</details>
+<details><summary><strong>StarField</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/starfield5/)
+</p>
+</details>
+
 
 1. Reflect on all your portfolio projects.  
 
