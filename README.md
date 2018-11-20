@@ -1,4 +1,14 @@
 # csPortfolio
+<details><summary><strong>NEW PORTFOLIO</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/compsciportfolio/)
+</p>
+</details>
+<details><summary><strong>First Web Page</strong></summary>
+<p>
+  [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
+</p>
+</details>
 * NEW PORTFOLIO [here](https://alexejosh.github.io/compsciportfolio/)
 * First Web Page [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
 * Lightning [here](https://alexejosh.github.io/lightning2/)
@@ -21,11 +31,7 @@
 
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 
-<details><summary><strong>test</strong></summary>
-<p>
-hi
-</p>
-</details>
+
 
 <span style="color:red"> Difficult code: </span>
 ```Java
