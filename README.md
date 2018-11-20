@@ -42,7 +42,7 @@
 >>In drop downs for each lab.
 
 2. What is one or two things that are a source of pride in your programming development?  
->>My official Portfolio[https://alexejosh.github.io/compsciportfolio/]
+>>My official [Portfolio](https://alexejosh.github.io/compsciportfolio/)
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
 >>
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
