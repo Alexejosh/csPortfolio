@@ -44,7 +44,7 @@
 2. What is one or two things that are a source of pride in your programming development?  
 >>My official [Portfolio](https://alexejosh.github.io/compsciportfolio/)
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
->>My Portfolio was an accomplishment for me because of the amount of *HTML* and *CSS* that I was able to learn and become confident using.
+>>My Portfolio was an accomplishment for me because of the amount of *HTML* and *CSS* that I was able to learn and become confident using. I used brackets to be able to see my webpage changes in real time. Using this method I was able to quickly learn *HTML* as I used it and become more comfortable with my *CSS* skills. Being a quite intriuguing topic for me, I was  constantly googling and learning both of the languages. With my approach of learning, I earned a healthy knowledge of many modern uses of both languages. 
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 >>
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
