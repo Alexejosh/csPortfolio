@@ -104,7 +104,7 @@ The code below shows the differing styles I used on my links and buttons.
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 >>Last trimester I was creating my [first modern site](https://alexejosh.github.io/portfolio/firstPage/). It was extremely difficult to create a background that was fixed while the rest of the site floated over it. I had to size the image properly to every screeen size and keep the navigation in a fixed position while all other sections of the site looked as if they floated over the picture. I resolved this after many, many google searches and reading multiple manuveres around this issue to find the solution that suited my understandings. I had to make sure I understood this code and be able to properly implement it into my code. This learning allowed me to reproduce this effect from my intuition and work my other code to use this effect. 
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
->>Shown through this README file.
+>>Shown through this *README* file.
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 >>I found great incremental and iterative issues throughout my code when I tried to make the navigation bar change colors when scrolled and when creating the layout of the navigation bar. 
 ***
