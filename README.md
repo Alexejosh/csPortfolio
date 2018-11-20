@@ -110,48 +110,88 @@ The code below shows the differing styles I used on my links and buttons.
 
  Difficult code: 
 ```Java
-<head>
-    <title>Jalex CompSci Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="shortcut icon" href="favicon.ico">
-	<link rel="icon" sizes="16x16 32x32 64x64" href="favicon.ico">
-	<link rel="icon" type="image/png" sizes="196x196" href="favicon-192.png">
-	<link rel="icon" type="image/png" sizes="160x160" href="favicon-160.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
-	<link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
-	<link rel="apple-touch-icon" href="/favicon-57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="favicon-114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="favicon-72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="favicon-144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="favicon-60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="favicon-120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="favicon-76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="favicon-152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="favicon-180.png">
-	<meta name="msapplication-TileColor" content="#FFFFFF">
-	<meta name="msapplication-TileImage" content="/favicon-144.png">
-	<meta name="msapplication-config" content="/browserconfig.xml">
-    
-    <script>
-        var h = window.innerHeight;
-        
-        //var LandingHeight = document.getElementById('LandingHeight').clientHeight;
-        /*
-        var AboutHeight = document.getElementById('About').offsetHeight;
-        var CompSciHeight = document.getElementById('CompSci').offsetHeight;
-        var PhotoHeight = document.getElementById('Photo').offsetHeight;
-        */
-        
-        window.onscroll = function() {navTrans()};
-        function navTrans() {
-            if (document.body.scrollTop > h-50 || document.documentElement.scrollTop > h-50) {
-                document.getElementById("nav").className = "NavigationScroll";
-            } else {
-                document.getElementById("nav").className = "Navigation";
-            }
-        }
-    </script>
-  </head>
+		<head>
+		    <title>Jalex CompSci Portfolio</title>
+		    <link rel="stylesheet" type="text/css" href="style.css">
+		    <link rel="shortcut icon" href="favicon.ico">
+			<link rel="icon" sizes="16x16 32x32 64x64" href="favicon.ico">
+			<link rel="icon" type="image/png" sizes="196x196" href="favicon-192.png">
+			<link rel="icon" type="image/png" sizes="160x160" href="favicon-160.png">
+			<link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
+			<link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+			<link rel="apple-touch-icon" href="/favicon-57.png">
+			<link rel="apple-touch-icon" sizes="114x114" href="favicon-114.png">
+			<link rel="apple-touch-icon" sizes="72x72" href="favicon-72.png">
+			<link rel="apple-touch-icon" sizes="144x144" href="favicon-144.png">
+			<link rel="apple-touch-icon" sizes="60x60" href="favicon-60.png">
+			<link rel="apple-touch-icon" sizes="120x120" href="favicon-120.png">
+			<link rel="apple-touch-icon" sizes="76x76" href="favicon-76.png">
+			<link rel="apple-touch-icon" sizes="152x152" href="favicon-152.png">
+			<link rel="apple-touch-icon" sizes="180x180" href="favicon-180.png">
+			<meta name="msapplication-TileColor" content="#FFFFFF">
+			<meta name="msapplication-TileImage" content="/favicon-144.png">
+			<meta name="msapplication-config" content="/browserconfig.xml">
+
+		    <script>
+			var h = window.innerHeight;
+
+			//var LandingHeight = document.getElementById('LandingHeight').clientHeight;
+			/*
+			var AboutHeight = document.getElementById('About').offsetHeight;
+			var CompSciHeight = document.getElementById('CompSci').offsetHeight;
+			var PhotoHeight = document.getElementById('Photo').offsetHeight;
+			*/
+
+			window.onscroll = function() {navTrans()};
+			function navTrans() {
+			    if (document.body.scrollTop > h-50 || document.documentElement.scrollTop > h-50) {
+				document.getElementById("nav").className = "NavigationScroll";
+			    } else {
+				document.getElementById("nav").className = "Navigation";
+			    }
+			}
+		    </script>
+		  </head>
+```
+```
+		div.Subset{
+			    border: 2px solid black;
+			    border-radius: 6px;
+			    margin-left: 5px;
+			    margin-right: 5px;
+			    margin-top: 11px;
+			    margin-bottom: 8px;
+			    padding-top: 0px;
+			    padding-bottom: 0px;
+			    padding-left: 5px;
+			    padding-right: 5px;
+			    line-height: auto;
+			    width: auto;
+			    height: 35px;
+			    position: relative;
+			    float: right;
+			    font-family: 'Montserrat', sans-serif;
+			    letter-spacing: 0.2em;
+			    text-transform: uppercase;
+			    text-align: center;
+			    display: inline-block; 
+			    color: black;
+			}
+			.SubsetText{
+			    vertical-align:middle;
+			    padding-top: 18px;
+			    padding-bottom: 25px;
+			    margin-top: 0;
+			    margin-bottom: 0;
+			    padding-left: 5px;
+			    padding-right: 5px;
+			}
+			.Subset:hover{
+			    border-color: rgb(216, 156, 104);
+			    color: rgb(216, 156, 104);
+			    /*border-color: rgb(11, 137, 146);
+			    color: rgb(11, 137, 146);*/
+			}
 ```
