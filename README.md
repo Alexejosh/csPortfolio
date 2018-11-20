@@ -1,7 +1,7 @@
 # csPortfolio
 <details><summary><strong>NEW PORTFOLIO</strong></summary>
   <p>
-    [Link](https://alexejosh.github.io/compsciportfolio/)
+    <a href="https://alexejosh.github.io/compsciportfolio/">Link<a>
   </p>
 </details>
 <details><summary><strong>First Web Page</strong></summary>
