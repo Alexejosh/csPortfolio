@@ -22,7 +22,7 @@
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 
 
-Difficult code:
+<span style="color:red"> Difficult code: </span>
 ```Java
 Particle [] blueBalls;
 double color1 = Math.random()*255;
