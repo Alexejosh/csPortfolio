@@ -42,11 +42,10 @@
 >>In drop downs for each lab.
 
 2. What is one or two things that are a source of pride in your programming development?  
->>My official [Portfolio](https://alexejosh.github.io/compsciportfolio/)
+>>My official [Portfolio](https://alexejosh.github.io/compsciportfolio/).
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
 >>My Portfolio was an accomplishment for me because of the amount of *HTML* and *CSS* that I was able to learn and become confident using. I used brackets to be able to see my webpage changes in real time. Using this method I was able to quickly learn *HTML* as I used it and become more comfortable with my *CSS* skills. Being a quite intriuguing topic for me, I was  constantly googling and learning both of the languages. With my approach of learning, I earned a healthy knowledge of many modern uses of both languages. 
-
->>The code below shows the differing styles I used on my links and buttons.
+The code below shows the differing styles I used on my links and buttons.
 
 ```Java
         .Button{
@@ -89,7 +88,7 @@
                 }
 ```
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
->>Last trimester I was creating my [first modern site](). It was extremely difficult to create a background that was fixed while the rest of the site floated over it. I had to size the image properly to every screeen size and keep the navigation in a fixed position while all other sections of the site looked as if they floated over the picture. I resolved this after many, many google searches and reading multiple manuveres around this issue to find the solution that suited my understandings. I had to make sure I understood this code and be able to properly implement it into my code. This learning allowed me to reproduce this effect from my intuition and work my other code to use this effect. 
+>>Last trimester I was creating my [first modern site](https://alexejosh.github.io/portfolio/firstPage/). It was extremely difficult to create a background that was fixed while the rest of the site floated over it. I had to size the image properly to every screeen size and keep the navigation in a fixed position while all other sections of the site looked as if they floated over the picture. I resolved this after many, many google searches and reading multiple manuveres around this issue to find the solution that suited my understandings. I had to make sure I understood this code and be able to properly implement it into my code. This learning allowed me to reproduce this effect from my intuition and work my other code to use this effect. 
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
 >>
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
