@@ -34,7 +34,7 @@
     <a href="https://docs.google.com/presentation/d/1yh4EfoiLOwROB6WxHCGSWT_DGElw1j_8WKmfAEqlJ78/edit?usp=sharing">Link<a>
   </p>
 </details>
-
+___
 
 1. Reflect on all your portfolio projects.  
 
