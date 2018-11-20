@@ -6,32 +6,32 @@
 </details>
 <details><summary><strong>First Web Page</strong></summary>
   <p>
-    [Link](https://alexejosh.github.io/portfolio/firstPage/firstPage)
+    <a href="https://alexejosh.github.io/portfolio/firstPage/">Link<a>
   </p>
 </details>
 <details><summary><strong>Lightning</strong></summary>
   <p>
-   [Link](https://alexejosh.github.io/lightning2/)
+   <a href="https://alexejosh.github.io/lightning2/">Link<a>
   </p>
 </details>
 <details><summary><strong>Dice</strong></summary>
   <p>
-   [Link](https://alexejosh.github.io/dice3/)
+   <a href="https://alexejosh.github.io/dice3/">Link<a>
   </p>
 </details>
 <details><summary><strong>Chemotaxis</strong></summary>
   <p>
-    [Link](https://alexejosh.github.io/chemotaxis4/index)
+    <a href="https://alexejosh.github.io/chemotaxis4/index">Link<a>
   </p>
 </details>
 <details><summary><strong>StarField</strong></summary>
   <p>
-    [Link](https://alexejosh.github.io/starfield5/)
+    <a href="https://alexejosh.github.io/starfield5/">Link<a>
   </p>
 </details>
 <details><summary><strong>College Presentation</strong></summary>
   <p>
-    [Link](https://docs.google.com/presentation/d/1yh4EfoiLOwROB6WxHCGSWT_DGElw1j_8WKmfAEqlJ78/edit?usp=sharing)
+    <a href="https://docs.google.com/presentation/d/1yh4EfoiLOwROB6WxHCGSWT_DGElw1j_8WKmfAEqlJ78/edit?usp=sharing">Link<a>
   </p>
 </details>
 
