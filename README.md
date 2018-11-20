@@ -1,38 +1,33 @@
 # csPortfolio
 <details><summary><strong>NEW PORTFOLIO</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/compsciportfolio/)
-</p>
+  <p>
+    [here](https://alexejosh.github.io/compsciportfolio/)
+  </p>
 </details>
 <details><summary><strong>First Web Page</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
-</p>
-</details>
-<details><summary><strong>NEW PORTFOLIO</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/compsciportfolio/)
-</p>
+  <p>
+    [here](https://alexejosh.github.io/portfolio/firstPage/firstPage)
+  </p>
 </details>
 <details><summary><strong>Lightning</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/lightning2/)
-</p>
+  <p>
+   [here](https://alexejosh.github.io/lightning2/)
+  </p>
 </details>
 <details><summary><strong>Dice</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/dice3/)
-</p>
+  <p>
+   [here](https://alexejosh.github.io/dice3/)
+  </p>
 </details>
 <details><summary><strong>Chemotaxis</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/chemotaxis4/index)
-</p>
+  <p>
+    [here](https://alexejosh.github.io/chemotaxis4/index)
+  </p>
 </details>
 <details><summary><strong>StarField</strong></summary>
-<p>
-  [here](https://alexejosh.github.io/starfield5/)
-</p>
+  <p>
+    [here](https://alexejosh.github.io/starfield5/)
+  </p>
 </details>
 
 
