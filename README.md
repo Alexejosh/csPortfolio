@@ -106,8 +106,9 @@ The code below shows the differing styles I used on my links and buttons.
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
 >>Shown through this README file.
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
->>
-
+>>I found great incremental and iterative issues throughout my code when I tried to make the navigation bar change colors when scrolled and when creating the layout of the navigation bar. 
+---
+>> I experienced a multitude of problems when trying to create a variable color navigation bar. I first had to learn how to introduce JavaScript into an HTML file. This became very difficult because for a long time I had invalid JS code and did not realize that the JS was implemented into the HTML but had invalid code. To solve this issue I searched the internet furiously but to no avail. I, independently, found the solution by learning JavaScript from [W3 Schools JS Tutorial](https://www.w3schools.com/js/default.asp). 
  Difficult code: 
 ```Java
 		<head>
