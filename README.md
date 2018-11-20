@@ -48,7 +48,7 @@
 
 >>The code below shows the differing styles I used on my links and buttons.
 
-    ```Java
+```Java
         .Button{
                     border: 3px solid white ;
                     color: white;
@@ -87,7 +87,7 @@
                     background-color: transparent;
                     text-decoration: inherit;
                 }
-    ```
+```
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 >>
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
