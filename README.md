@@ -37,8 +37,7 @@
 <p></p>
 #DR R's Questions
 ___
----
-***
+
 
 1. Reflect on all your portfolio projects.  
 
