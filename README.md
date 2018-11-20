@@ -2,36 +2,50 @@
   <details><summary><strong>NEW PORTFOLIO</strong></summary>
     <p>
       <a href="https://alexejosh.github.io/compsciportfolio/">Link<a>
+    
+  >This was an extremely interesting project to work on. I enjoyed this topic and learning HTML and CSS.
     </p>
   </details>
   <details><summary><strong>First Web Page</strong></summary>
     <p>
       <a href="https://alexejosh.github.io/portfolio/firstPage/">Link<a>
+    
+  >This project was a learning experience for me and an introdution to webpage creation. This allowed me to experiment in many ways and say I created my first webpage.
     </p>
   </details>
   <details><summary><strong>Lightning</strong></summary>
     <p>
      <a href="https://alexejosh.github.io/lightning2/">Link<a>
+       
+   >Lightning allowed me to learn more about positioning, randomWalk, and creating an animation in processing.
     </p>
   </details>
   <details><summary><strong>Dice</strong></summary>
     <p>
      <a href="https://alexejosh.github.io/dice3/">Link<a>
+           
+   >Dice taught me OOP (Object Oriented Programming) techniques and creating an appealing interface.
     </p>
   </details>
   <details><summary><strong>Chemotaxis</strong></summary>
     <p>
       <a href="https://alexejosh.github.io/chemotaxis4/index">Link<a>
+            
+   >Chemotaxis showed me the immense uses of positioning and randomWalk, and its purpose in the making of many games.
     </p>
   </details>
   <details><summary><strong>StarField</strong></summary>
     <p>
       <a href="https://alexejosh.github.io/starfield5/">Link<a>
+            
+   >StarField was an expierence. This project was a place for me to use many of the techniques I have learned over the tri and experiment with them all in my own way. StarField also taught me more about interfaces and inheritance.
     </p>
   </details>
   <details><summary><strong>College Presentation</strong></summary>
     <p>
       <a href="https://docs.google.com/presentation/d/1yh4EfoiLOwROB6WxHCGSWT_DGElw1j_8WKmfAEqlJ78/edit?usp=sharing">Link<a>
+            
+   >College Presentation was a project I completed to learn more about the computer science field at the *University of Michigan Ann Arbor*.
     </p>
   </details>
 
@@ -90,7 +104,7 @@ The code below shows the differing styles I used on my links and buttons.
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 >>Last trimester I was creating my [first modern site](https://alexejosh.github.io/portfolio/firstPage/). It was extremely difficult to create a background that was fixed while the rest of the site floated over it. I had to size the image properly to every screeen size and keep the navigation in a fixed position while all other sections of the site looked as if they floated over the picture. I resolved this after many, many google searches and reading multiple manuveres around this issue to find the solution that suited my understandings. I had to make sure I understood this code and be able to properly implement it into my code. This learning allowed me to reproduce this effect from my intuition and work my other code to use this effect. 
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
->>
+>>Shown through this README file.
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 >>
 
