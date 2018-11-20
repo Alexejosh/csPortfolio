@@ -35,11 +35,12 @@
     </p>
   </details>
 
-# DR. R's Questions
+# DR. R's Questions and Jalex's Answers
 
 
 
 1. Reflect on all your portfolio projects.  
+>In drop downs for each lab.
 
 2. What is one or two things that are a source of pride in your programming development?  
 
@@ -51,21 +52,8 @@
 
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 
-# Jalex's Answers
 
-1. In drop downs for each lab.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-<span style="color:red"> Difficult code: </span>
+ Difficult code: 
 ```Java
 Particle [] blueBalls;
 double color1 = Math.random()*255;
