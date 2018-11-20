@@ -38,20 +38,19 @@
 # DR. R's Questions and Jalex's Answers
 
 
-
 1. Reflect on all your portfolio projects.  
->In drop downs for each lab.
+>>In drop downs for each lab.
 
 2. What is one or two things that are a source of pride in your programming development?  
-
+>>My official Portfolio(https://alexejosh.github.io/compsciportfolio/)
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
-
+>>
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
-
+>>
 5. Once you are ready to submit your writing and code examples, study markdown (language used on github to format text).
-
+>>
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
-
+>>
 
  Difficult code: 
 ```Java
