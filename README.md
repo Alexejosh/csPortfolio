@@ -108,7 +108,7 @@ The code below shows the differing styles I used on my links and buttons.
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 >>I found great incremental and iterative issues throughout my code when I tried to make the navigation bar change colors when scrolled and when creating the layout of the navigation bar. 
 ***
->> I experienced a multitude of problems when trying to create a variable color navigation bar. I first had to learn how to introduce JavaScript into an HTML file. This became very difficult because for a long time I had invalid JS code and did not realize that the JS was implemented into the HTML but had invalid code. To solve this issue I searched the internet furiously but to no avail. I, independently, found the solution by learning JavaScript from [W3 Schools JS Tutorial](https://www.w3schools.com/js/default.asp). 
+>> 1. I experienced a multitude of problems when trying to create a variable color navigation bar. I first had to learn how to introduce *JavaScript* into an *HTML* file. This became very difficult because for a long time I had invalid *JS* code and did not realize that the *JS* was implemented into the *HTML* but had invalid code. To solve this issue I searched the internet furiously but to no avail. I, independently, found the solution by learning *JavaScript* from [W3 Schools JS Tutorial](https://www.w3schools.com/js/default.asp). 
 ```Java
 		<head>
 		    <title>Jalex CompSci Portfolio</title>
@@ -155,6 +155,7 @@ The code below shows the differing styles I used on my links and buttons.
 		    </script>
 		  </head>
 ```
+>> 2. When trying to create a layout of my navigation bar, I encountered many issues in trying to get all the *divs* to line up horizontally and sizing them to all window sizes. I overcame this issue through multiple searches in the W3 Database to find *display: inline-block*. After fixing the horizontal issue I needed to space the divs out properly and make them all apealling in all window sizes. This was solved by the *plug and check* method by trying all different *padding, margins, and borders* until I found a pleasing look.
 ```
 		div.Subset{
 			    border: 2px solid black;
