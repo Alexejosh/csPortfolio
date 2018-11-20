@@ -53,6 +53,18 @@
 
 # Jalex's Answers
 
+1. In drop downs for each lab.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
 <span style="color:red"> Difficult code: </span>
 ```Java
 Particle [] blueBalls;
