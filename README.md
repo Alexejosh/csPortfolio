@@ -47,8 +47,8 @@
 >>My Portfolio was an accomplishment for me because of the amount of *HTML* and *CSS* that I was able to learn and become confident using. I used brackets to be able to see my webpage changes in real time. Using this method I was able to quickly learn *HTML* as I used it and become more comfortable with my *CSS* skills. Being a quite intriuguing topic for me, I was  constantly googling and learning both of the languages. With my approach of learning, I earned a healthy knowledge of many modern uses of both languages. 
 
 >>The code below shows the differing styles I used on my links and buttons.
->>
-```Java
+
+>>```Java
 .Button{
             border: 3px solid white ;
             color: white;
@@ -63,7 +63,6 @@
             padding-right: 0px;
             height:auto;
         }
-        
         .Button:hover {
             background-color:white;
             color: rgb(11, 137, 146);
@@ -78,13 +77,11 @@
             background-color: transparent;
             text-decoration: none;
         }
-
         a:hover {
             color: darkblue;
             background-color: transparent;
             text-decoration:inherit;
         }
-
         a:active {
             color: darkorange;
             background-color: transparent;
