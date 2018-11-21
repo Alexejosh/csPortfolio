@@ -43,7 +43,7 @@
   </details>
   <details><summary><strong>College Presentation</strong></summary>
     <p>
-      <a href="https://docs.google.com/presentation/d/1yh4EfoiLOwROB6WxHCGSWT_DGElw1j_8WKmfAEqlJ78/edit?usp=sharing">Link<a>
+      <a href="https://alexejosh.github.io/collegePresi/file.html">Link<a>
             
    >College Presentation was a project I completed to learn more about the computer science field at the *University of Michigan Ann Arbor*.
     </p>
