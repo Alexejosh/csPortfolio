@@ -29,7 +29,7 @@
   </details>
   <details><summary><strong>Chemotaxis</strong></summary>
     <p>
-      <a href="https://alexejosh.github.io/chemotaxis4/index">Link<a>
+      <a href="https://alexejosh.github.io/chemotaxis/">Link<a>
             
    >Chemotaxis showed me the immense uses of positioning and randomWalk, and its purpose in the making of many games.
     </p>
