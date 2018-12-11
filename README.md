@@ -15,7 +15,7 @@
   </details>
   <details><summary><strong>Lightning</strong></summary>
     <p>
-     <a href="https://alexejosh.github.io/lightning2/">Link<a>
+     <a href="https://alexejosh.github.io/lightning/">Link<a>
        
    >Lightning allowed me to learn more about positioning, randomWalk, and creating an animation in processing.
     </p>
