@@ -22,7 +22,7 @@
   </details>
   <details><summary><strong>Dice</strong></summary>
     <p>
-     <a href="https://alexejosh.github.io/dice3/">Link<a>
+     <a href="https://alexejosh.github.io/dice/">Link<a>
            
    >Dice taught me OOP (Object Oriented Programming) techniques and creating an appealing interface.
     </p>
