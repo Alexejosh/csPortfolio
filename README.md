@@ -41,6 +41,20 @@
    >StarField was an expierence. This project was a place for me to use many of the techniques I have learned over the tri and experiment with them all in my own way. StarField also taught me more about interfaces and inheritance.
     </p>
   </details>
+<details><summary><strong>Text App</strong></summary>
+    <p>
+      <a href="https://alexejosh.github.io/textapp/">Link<a>
+            
+   >Text App was a project in which we used arrays and regex to find number of words, sentences, grade level, and flesch score.
+    </p>
+  </details>
+  <details><summary><strong>New Year Card</strong></summary>
+    <p>
+      <a href="https://alexejosh.github.io/NewYearcard/">Link<a>
+            
+   >The New Year Card was a opportunity to show off my coding abilities to help bring some joy to the school.
+    </p>
+  </details>
   <details><summary><strong>College Presentation</strong></summary>
     <p>
       <a href="https://alexejosh.github.io/collegePresi/file.html">Link<a>
