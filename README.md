@@ -62,6 +62,20 @@
    >College Presentation was a project I completed to learn more about the computer science field at the *University of Michigan Ann Arbor*.
     </p>
   </details>
+  <details><summary><strong>Dakota County Crime</strong></summary>
+    <p>
+      <a href="https://github.com/Alexejosh/DKCTYCrime/tree/gh-pages">Link<a>
+            
+   >DKCTY Crime a program completed using an svg file to show density of crime on a map using numerous maps and data comparators.
+    </p>
+  </details>
+  <details><summary><strong>Marvel Face Mask</strong></summary>
+    <p>
+      <a href="https://github.com/Alexejosh/faceMasks/tree/gh-pages">Link<a>
+            
+   >Face Masks a program completed using OpenCV facial recognition library and data structures.
+    </p>
+  </details>
 
 # DR. R's Questions and Jalex's Answers
 
